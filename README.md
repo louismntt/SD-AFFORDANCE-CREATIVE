@@ -36,8 +36,13 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 - de la ***méfiance*** et de l'***hésitation*** quand il sera proche du but, et qu'il commencera à faire attention à ne pas faire sauter ses modifications / son niveau d'avancement
 - de la ***satisfaction*** et du ***soulagement*** à la réussite
 
+——————————————————————
+
+Texte sur écran de victoire
 > Tu as eu du mal à reproduire l'image, alors que tous les boutons dont tu avais besoin étaient devant toi ? On t'explique pourquoi !
 
+
+Texte sur cartel imprimé 
 > Les boutons devant toi ne t'offraient aucune info sur leur utilité. Vraiment pas pratique, non ? Normalement, dans nos interfaces, chaque composant exprime de lui-même ce à quoi il sert.
 > #### C'est le principe **d'affordance**
 >

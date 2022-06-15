@@ -25,6 +25,11 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 
 - L'utilisateur doit reproduire un visuel donné, affiché devant lui
 
+#### Quelles actions va effectuer l'utilisateur ?
+
+- Appuyer sur un premier bouton : trois options
+  - le bouton change quelque chose sur l'image
+
 #### Quelles ***émotions*** va ressentir l'utilisateur ?
 
 - de la ***surprise*** en découvrant les effets de chaque bouton
@@ -33,9 +38,10 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 - de la ***confiance*** quand il commencera à avoir identifié la place de certains boutons et leur fonction
 - de la ***frustration*** quand il appuiera sur un bouton qu'il pense connaître, et que l'effet produit n'est pas celui auquel il s'attendait
 - de la ***satisfaction*** quand il va réussir à s'approcher du visuel souhaité
-- de la ***méfiance*** et de l'***hésitation*** quand il sera proche du but, et qu'il commencera à faire attention à ne pas faire sauter ses modifications / son niveau d'avancement
+- de la ***méfiance*** et de l'***hésitation*** / ***angoisse*** quand il sera proche du but, et qu'il commencera à faire attention à ne pas faire sauter ses modifications / son niveau d'avancement
 - de la ***satisfaction*** et du ***soulagement*** à la réussite
 
+<!-- // ramenr ça dans le debrief -->
 ——————————————————————
 
 Texte sur écran de victoire
@@ -43,13 +49,17 @@ Texte sur écran de victoire
 
 
 Texte sur cartel imprimé
-> Les boutons devant toi ne t'offraient aucune info sur leur utilité. Vraiment pas pratique, non ? Normalement, dans nos interfaces, chaque composant exprime de lui-même ce à quoi il sert.
+> Les boutons devant toi ne t'offraient aucune info sur leur utilité. Vraiment pas pratique, non ? Normalement, dans nos interfaces, la fonction de chaque composant est facile à comprendre.
+>
 > ### C'est le principe **d'affordance**
 >
-> Par exemple, dans l'interface que tu viens d'essayer, rien n'est affordant. Avant d'appuyer sur un bouton, tu ne sais pas ce qu'il va se produire. Tu ne contrôles pas tes actions, et donc, tu ne contrôles pas ton outil numérique.
+> Par exemple, dans l'interface que tu viens d'essayer, rien n'est affordant // trouver synonimes, précisions . Si tu ne sais pas ce qu'il va se produire avant d’appuyer sur un bouton, tu ne contrôles pas tes actions. Résultat : tu ne contrôles pas ton outil numérique.
 >
-> Au contraire, sur youtube ou beaucoup d'autres, tu sais que si tu appuies sur cette icône 🔎, tu vas accéder à une recherche. Tu connais ce symbole, et tu connais la fonction à laquelle il correspond. On dit de ce bouton qu'il est **affordant**.
-> C'est ce qui te permet de naviguer même dans une interface que tu ne connais pas, car ces codes sont communs, et tu t'y habitues probablement depuis déjà plusieurs années.
+
+Au contraire, sur youtube ou beaucoup d'autres, tu sais que si tu appuies sur cette icône 🔎, tu vas accéder à une recherche. Tu connais ce symbole, et tu connais la fonction à laquelle il correspond. On dit de ce bouton qu'il est **affordant**.
+C'est ce qui te permet de naviguer même dans une interface que tu ne connais pas, car ces codes sont communs, et tu t'y habitues probablement depuis déjà plusieurs années.
+// faire passer ça en schéma
+
 >
 > [En images, pictogrammes, plusieurs symboles qu'on connait] ➔ ♡ ☆
 

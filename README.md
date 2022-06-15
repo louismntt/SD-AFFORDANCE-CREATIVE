@@ -42,13 +42,15 @@ Texte sur écran de victoire
 > Tu as eu du mal à reproduire l'image, alors que tous les boutons dont tu avais besoin étaient devant toi ? On t'explique pourquoi !
 
 
-Texte sur cartel imprimé 
+Texte sur cartel imprimé
 > Les boutons devant toi ne t'offraient aucune info sur leur utilité. Vraiment pas pratique, non ? Normalement, dans nos interfaces, chaque composant exprime de lui-même ce à quoi il sert.
-> #### C'est le principe **d'affordance**
+> ### C'est le principe **d'affordance**
 >
-> Par exemple sur youtube, tu sais que si tu appuies sur cette icône 🔎, tu vas accéder à une recherche. Tu connais ce symbole, et tu connais la fonction à laquelle il correspond. On dit de ce bouton qu'il est **affordant**.
+> Par exemple, dans l'interface que tu viens d'essayer, rien n'est affordant. Avant d'appuyer sur un bouton, tu ne sais pas ce qu'il va se produire. Tu ne contrôles pas tes actions, et donc, tu ne contrôles pas ton outil numérique.
 >
-> Au contraire, dans l'interface que tu viens d'essayer, rien n'est affordant. Avant d'appuyer sur un bouton, tu ne sais pas ce qu'il va se produire. Tu ne contrôles pas tes actions, et donc, tu ne contrôles pas ton outil numérique.
+> Au contraire, sur youtube ou beaucoup d'autres, tu sais que si tu appuies sur cette icône 🔎, tu vas accéder à une recherche. Tu connais ce symbole, et tu connais la fonction à laquelle il correspond. On dit de ce bouton qu'il est **affordant**.
+> C'est ce qui te permet de naviguer même dans une interface que tu ne connais pas, car ces codes sont communs, et tu t'y habitues probablement depuis déjà plusieurs années.
+
 
 
 

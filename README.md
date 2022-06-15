@@ -1,6 +1,6 @@
 # AFFORDANCE CREATIVE
 
-Le principe de l'interface est de reproduire un visuel affiché sur un autre écran (ou imprimé), en se servant des boutons présents sur les côtés. Ces boutons n'ont aucun indication sur sur leur fonction, mais en voici la liste :
+Le principe de l'interface est de reproduire un visuel affiché sur un autre écran (ou imprimé), en se servant des boutons présents sur les côtés. Ces boutons n'ont aucune indication sur sur leur fonction, mais en voici la liste :
 
 - mélanger tous les paramètres (random)
 - augmenter l'épaisseur du contour des motifs
@@ -25,7 +25,7 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 
 - L'utilisateur doit reproduire un visuel donné, affiché devant lui
 
-###### Pour ça, il doit :
+##### Pour ça, il doit :
 
 - Comprendre que chaque bouton a une fonction distincte
 - Identifier quelles sont précisément ces fonctions
@@ -35,4 +35,4 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 ## Comment on débrief du jeu pour faire comprendre les notions visées ?
 
 - mettre en avant les difficultés liées à chaque point de la section ci-dessous
-- comparaison youtube 
+- comparaison youtube

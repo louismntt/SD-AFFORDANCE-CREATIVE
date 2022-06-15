@@ -36,7 +36,17 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 - de la ***méfiance*** et de l'***hésitation*** quand il sera proche du but, et qu'il commencera à faire attention à ne pas faire sauter ses modifications / son niveau d'avancement
 - de la ***satisfaction*** et du ***soulagement*** à la réussite
 
-> **"**Tu as eu du mal à gagner, alors que tous les boutons dont tu avais besoin étaient devant toi ? On t'explique pourquoi !**"**
+> Tu as eu du mal à reproduire l'image, alors que tous les boutons dont tu avais besoin étaient devant toi ? On t'explique pourquoi !
+
+> Les boutons devant toi ne t'offraient aucune info sur leur utilité. Vraiment pas pratique, non ? Normalement, dans nos interfaces, chaque composant exprime de lui-même ce à quoi il sert.
+> #### C'est le principe **d'affordance**
+>
+> Par exemple sur youtube, tu sais que si tu appuies sur cette icône 🔎, tu vas accéder à une recherche. Tu connais ce symbole, et tu connais la fonction à laquelle il correspond. On dit de ce bouton qu'il est **affordant**.
+>
+> Au contraire, dans l'interface que tu viens d'essayer, rien n'est affordant. Avant d'appuyer sur un bouton, tu ne sais pas ce qu'il va se produire. Tu ne contrôles pas tes actions, et donc, tu ne contrôles pas ton outil numérique.
+
+
+
 
 ##### Pour ça, il doit :
 

@@ -50,6 +50,8 @@ Texte sur cartel imprimé
 >
 > Au contraire, sur youtube ou beaucoup d'autres, tu sais que si tu appuies sur cette icône 🔎, tu vas accéder à une recherche. Tu connais ce symbole, et tu connais la fonction à laquelle il correspond. On dit de ce bouton qu'il est **affordant**.
 > C'est ce qui te permet de naviguer même dans une interface que tu ne connais pas, car ces codes sont communs, et tu t'y habitues probablement depuis déjà plusieurs années.
+>
+> [En images, pictogrammes, plusieurs symboles qu'on connait] ➔ ♡ ☆
 
 
 

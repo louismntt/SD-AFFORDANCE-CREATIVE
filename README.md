@@ -25,6 +25,19 @@ Le principe de l'interface est de reproduire un visuel affiché sur un autre éc
 
 - L'utilisateur doit reproduire un visuel donné, affiché devant lui
 
+#### Quelles ***émotions*** va ressentir l'utilisateur ?
+
+- de la ***surprise*** en découvrant les effets de chaque bouton
+- de l'***incompréhension*** quand certaines boutons ne provoqueront rien (par exemple le bouton pour réduire l'épaisseur des contours, si ce paramètre a déjà atteint le minimum)
+- de la ***frustration*** quand il va appuyer sur le bouton random et que ça va faire sauter toutes ses modifications
+- de la ***confiance*** quand il commencera à avoir identifié la place de certains boutons et leur fonction
+- de la ***frustration*** quand il appuiera sur un bouton qu'il pense connaître, et que l'effet produit n'est pas celui auquel il s'attendait
+- de la ***satisfaction*** quand il va réussir à s'approcher du visuel souhaité
+- de la ***méfiance*** et de l'***hésitation*** quand il sera proche du but, et qu'il commencera à faire attention à ne pas faire sauter ses modifications / son niveau d'avancement
+- de la ***satisfaction*** et du ***soulagement*** à la réussite
+
+> **"**Tu as eu du mal à gagner, alors que tous les boutons dont tu avais besoin étaient devant toi ? On t'explique pourquoi !**"**
+
 ##### Pour ça, il doit :
 
 - Comprendre que chaque bouton a une fonction distincte

@@ -123,3 +123,44 @@ canvas {
     padding: 0 25px;
   }
 }
+
+.victory-box {
+  background-color: green;
+  width: 500px;
+  height: 400px;
+
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  box-shadow: #422800 4px 4px 0 0;
+
+  border-radius: 20px;
+
+
+  /* top: 0; */
+  /* left: 0; */
+
+  position: absolute;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+  font-size: 4rem;
+  font-family: sans-serif;
+
+  animation: shakeForVictory 3s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes shakeForVictory {
+  0% { transform:  scale(1) rotate(0deg); }
+  5% { transform:  scale(1.1) rotate(-5deg); }
+  10% { transform:  scale(1.1) rotate(5deg); }
+  15% { transform:  scale(1.1) rotate(0deg); }
+  20% { transform:  scale(1.1) rotate(5deg); }
+  25% { transform:  scale(1.1) rotate(-5deg); }
+  30% { transform:  scale(1) rotate(0deg); }
+  35% { transform: scale(1) translate(0) rotate(0); }
+}

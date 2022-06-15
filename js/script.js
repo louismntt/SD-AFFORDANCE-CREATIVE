@@ -1,5 +1,7 @@
 const canvasSize = 95 / 100 * window.innerHeight;
 
+const canvasContainer = document.getElementById('canvasContainer');
+
 function setup() {
   let canvas = createCanvas(canvasSize, canvasSize);
 
@@ -7,6 +9,10 @@ function setup() {
   console.log("ca c'est le canvas" + canvas);
 
 }
+
+
+// fullscreen
+var fullscreenAvailable = true;
 
 // ———— DÉFINITION VARIABLES À PERSONNALISER ————
 
@@ -257,7 +263,6 @@ for (var i = 0; i < functionsArray.length; i++) {
 
 // ——— check for fullscreen ————
 
-var fullscreenAvailable = false;
 var elem = document.body;
 document.addEventListener('click', function() {
   if (fullscreenAvailable) {
@@ -294,8 +299,7 @@ function closeFullscreen() {
   }
 }
 
-// ———— CHECK FOR VICTORY ———————
-//
+
 
 //———————————— BEGIN DRAW —————————
 
@@ -364,8 +368,25 @@ function draw() {
 
   noFill()
   // rect(0, 0, canvasSize, canvasSize)
-  if (backgroundColor === RVB[1] && shapesCount === 1 && numberOfShapes === 6 && backShapes === 3 && outlineWeight === 10) {
-    window.alert('BAM VICTOIRE');
+
+  // ———— CHECK FOR VICTORY ———————
+
+
+
+
+  if (backgroundColor === RVB[1] && shapesCount === 1 && numberOfShapes === 6 && backShapes === 3 && outlineWeight >= 10 && outlineWeight <= 30) {
+    // window.alert('BAM VICTOIRE'); // alert n'est pas une bonne solution - ça fait sauter le plein écran
+
+
+    const victoryBox = document.createElement('div');
+    victoryBox.classList.add('victory-box');
+    victoryBox.innerHTML = " Bravo, tu as réussi ! "
+    elem.appendChild(victoryBox); // adding to body
+    victoryBox.style.left = window.innerWidth/2 - 250 + "px";
+    victoryBox.style.top = window.innerHeight/2 - 200 + "px";
+
+
+
   }
 
 }
